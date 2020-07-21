@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Ali Zareshahi
+i work in FrontEnd with [Angular](https://angular.io) 
