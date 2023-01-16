@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I'm Ali Zareshahi
+I am studing NLP research
 i work in FrontEnd with [Angular](https://angular.io) 
+also i can build mobile apps with Flutter
+i worked with Wordpress too
+
