@@ -1,4 +1,6 @@
 ### Hi there 👋
+My journey into the world of programming began in my teenage years, sparked by the joy of hearing the dial-up modem and working with Windows XP. This fascination led me to explore the exciting realm of programming. With the expansion of the internet and advancements in communication, I was able to hone my skills in various programming languages and delve into new technological frontiers.<br />
+Throughout this journey, I've gained extensive experience and achieved numerous successes across different projects, each leaving me with valuable memories. Now, I'm eager to share these experiences and achievements with you, and to continue contributing to the growth and development of technology.
 
 <!--
 **zareshahi/zareshahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
